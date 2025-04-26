@@ -4,9 +4,21 @@
 	name: "PetterX#58193a45"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
-	claimed_rewards: { }
+	task_progress: {
+		6043DC204BDD6984: 1
+	}
+	started: {
+		48DB2DF7C035AD0E: 1745696469243L
+		1B08DFC914DB7DAB: 1745696469243L
+		0000000000000001: 1745696469243L
+		6043DC204BDD6984: 1745696469243L
+	}
+	completed: {
+		48DB2DF7C035AD0E: 1745696469251L
+		6043DC204BDD6984: 1745696469251L
+	}
+	claimed_rewards: {
+		"58193a45546a346a80a9e4a992ad80bf:580D1579A783F634": 1745696766601L
+	}
 	player_data: { }
 }

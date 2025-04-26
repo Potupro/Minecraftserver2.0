@@ -11364,3 +11364,346 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [26Apr2025 19:39:41.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [26Apr2025 19:42:16.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
 [26Apr2025 19:42:21.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[26Apr2025 19:43:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Spore]
+[26Apr2025 19:44:04.511] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[26Apr2025 19:44:04.512] [Server thread/DEBUG] [mixin/]: curios.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Apr2025 19:44:04.512] [Server thread/DEBUG] [mixin/]: curios.mixins.json:MixinPiglinAi from mod curios->@Inject::curios$isWearingGold(Lnet/minecraft/world/entity/LivingEntity;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Apr2025 19:44:40.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 19:44:41.304] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 19:44:41.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Apr2025 19:44:41.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Apr2025 19:46:43.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Gamerule doDaylightCycle is now set to: true]
+[26Apr2025 19:48:51.640] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkGeneratorMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[26Apr2025 19:48:52.953] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Apr2025 19:48:52.955] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[26Apr2025 19:48:52.958] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_supportCustomTerrainAdaptations(Lnet/minecraft/world/level/StructureManager;Lnet/minecraft/world/level/ChunkPos;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Apr2025 19:48:52.958] [Worker-Main-3/DEBUG] [mixin/]: yungsapi.mixins.json:BeardifierMixin from mod yungsapi->@Inject::yungsapi_calculateDensity(Lnet/minecraft/world/level/levelgen/DensityFunction$FunctionContext;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[26Apr2025 19:48:54.350] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[26Apr2025 19:48:54.351] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[26Apr2025 19:48:54.351] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[26Apr2025 19:49:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Monster Hunter]
+[26Apr2025 19:49:41.347] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[26Apr2025 19:49:41.347] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[26Apr2025 19:49:41.347] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[26Apr2025 19:49:41.348] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[26Apr2025 19:49:41.349] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[26Apr2025 19:49:41.350] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[26Apr2025 19:49:41.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Apr2025 19:49:41.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Apr2025 19:50:05.801] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38810, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -102, -45, 127, -124, -125, -85, 10, 104, 13, 56, -19, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 56, -125, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 89, 95, -124, 76, 30, -32, 10, -70, -13, -27, 28, -44, -71, -21, 14, -75], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:05.801] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:05.801] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:05.802] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:48204, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -68, 76, 0, 0, 0, 0, 98, -122, 30, -47, -85, 10, 104, 13, 56, -19, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 22, -47, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 48, 112, 94, 114, 44, 44, 99, -52, 27, -18, 16, -96, 117, -61, -118, -79], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:05.802] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:05.802] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:05.813] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:05.814] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:05.815] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:05.815] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:05.825] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:05.826] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:05.826] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:05.826] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:05.827] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:05.827] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:05.827] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:05.828] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:05.828] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:05.828] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:08.250] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38816, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -96, 49, 7, 27, 12, -85, 10, 104, 13, 56, -16, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 57, 12, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -106, 85, -76, 44, -8, 44, -52, -89, -17, -18, -117, 122, -30, 53, 26, -115], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:08.250] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:08.250] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:08.262] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:08.262] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:08.274] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:08.275] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:08.275] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:08.275] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:08.276] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:08.388] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38824, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -88, -13, -123, -42, -62, -85, 10, 104, 13, 56, -16, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 73, -62, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -91, 95, 94, -108, 11, 126, 105, 78, 94, -81, -39, -71, -60, -15, -33, 23], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:08.388] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:08.388] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:08.401] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:08.401] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:08.412] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:08.413] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:08.413] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:08.414] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:08.414] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:08.421] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38840, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -72, 61, 28, -58, -76, -85, 10, 104, 13, 56, -16, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -67, -76, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -31, -1, -95, 2, -88, -15, -39, -11, 75, -95, -31, -43, -109, 108, -87, -99], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:08.421] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:08.421] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:08.433] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:08.433] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:08.444] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:08.444] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:08.444] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:08.445] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:08.445] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:08.721] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38852, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -60, -124, -23, -50, -116, -85, 10, 104, 13, 56, -16, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 102, -116, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -13, -45, 99, 20, 71, 75, 45, 115, 39, 82, 60, 34, -64, -9, -104, 46], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:08.722] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:08.722] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:08.734] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:08.734] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:08.745] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:08.746] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:08.746] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:08.746] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:08.747] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:10.104] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:48214, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -68, 86, 0, 0, 0, 0, -114, -46, -42, -26, -85, 10, 104, 13, 56, -14, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 55, -26, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 56, 16, 45, -27, -99, -68, -58, 82, 79, -109, 121, 62, -5, -58, -98, 22], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:10.104] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:10.105] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:10.116] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:10.116] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:10.127] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:10.128] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:10.128] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:10.128] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:10.128] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:12.251] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38870, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -42, -35, 18, -41, -40, -85, 10, 104, 13, 56, -12, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 24, -40, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -74, 33, -9, 57, 9, -11, -101, -117, 120, -115, 34, 43, 63, -1, 66, 43], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:12.251] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:12.252] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:12.264] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:12.264] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:12.276] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:12.277] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:12.277] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:12.277] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:12.277] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:12.388] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38876, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -36, 21, 34, -3, 109, -85, 10, 104, 13, 56, -12, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -106, 109, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -55, 53, 109, 16, 122, 114, -72, 77, 72, 41, 66, 118, -58, -66, -117, -18], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:12.388] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:12.389] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:12.400] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:12.400] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:12.411] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:12.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:12.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:12.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:12.412] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:12.421] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38892, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -20, -25, 60, -9, 39, -85, 10, 104, 13, 56, -12, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 13, 39, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 56, -111, 58, 78, 27, -50, 98, 119, -97, -41, -58, 5, -89, -47, 90, -61], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:12.421] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:12.422] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:12.433] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:12.433] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:12.445] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:12.446] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:12.446] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:12.446] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:12.446] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:12.722] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:38906, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -105, -6, -85, 61, 117, -127, -85, 10, 104, 13, 56, -12, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 111, -127, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 7, -96, 75, 82, -51, -128, -94, -44, 33, -5, 75, 58, 17, 112, 40, 69], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:12.722] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:12.723] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:12.735] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:12.736] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:12.748] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:12.748] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:12.749] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:12.749] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:12.749] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:31.110] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:39482, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -102, 58, 8, 45, 75, -11, -85, 10, 104, 13, 57, 7, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -55, -11, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 94, 8, -35, 97, -22, 85, 30, -72, -16, -101, -83, 42, -23, -25, 14, -75], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:31.110] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:31.111] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:31.122] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:31.123] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:31.134] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:31.135] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:31.135] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:31.136] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:31.137] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:35.170] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:39494, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -102, 70, 72, 63, -125, 14, -85, 10, 104, 13, 57, 11, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -88, 14, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -55, 22, 93, 58, -52, 55, -76, 11, -60, 121, 59, 31, 17, -28, -5, 60], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:35.171] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:35.171] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:35.183] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:35.183] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:35.195] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:35.196] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:35.196] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:35.196] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:35.197] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:38.472] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:46688, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -74, 96, 0, 0, 0, 0, 72, -61, 101, -14, -85, 10, 104, 13, 57, 14, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -15, -14, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -58, -121, -46, 65, -13, -64, -77, -2, 62, -31, 31, 95, -27, 123, 57, 117], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:38.473] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:38.473] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:38.484] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:38.485] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:38.495] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:38.496] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:38.496] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:38.496] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:38.497] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:38.500] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:46700, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -74, 108, 0, 0, 0, 0, 36, -43, 73, -47, -85, 10, 104, 13, 57, 14, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 105, -47, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -4, -115, 114, -123, -97, -99, -103, -27, -10, -63, -125, -84, 22, -62, -121, 22], tunnelServerId=1, dataCenterId=44}
+[26Apr2025 19:50:38.500] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:50:38.500] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[26Apr2025 19:50:38.512] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:50:38.512] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:50:38.523] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:50:38.524] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:50:38.524] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:50:38.524] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:50:38.524] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:50:47.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Stone Age]
+[26Apr2025 19:51:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Stone Age]
+[26Apr2025 19:51:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Getting an Upgrade]
+[26Apr2025 19:52:23.133] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=58.136.231.229:57214, claimAddress=209.25.140.2:43776, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, 58, -120, -25, -27, -33, 126, 8, -125, -63, 82, -85, 0, 104, 13, 57, 119, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -117, 82, -85, 0, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 83, -79, 25, -98, 90, 111, 72, -68, -48, 83, 45, 72, 106, -93, -96, 55], tunnelServerId=1, dataCenterId=36}
+[26Apr2025 19:52:23.133] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 19:52:23.133] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43776 to claim client
+[26Apr2025 19:52:23.145] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 19:52:23.145] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 19:52:23.156] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 19:52:23.157] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 19:52:23.157] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 19:52:23.157] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 19:52:23.157] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 19:52:23.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Getting an Upgrade]
+[26Apr2025 19:52:25.372] [nioEventLoopGroup-2-1/WARN] [io.netty.channel.DefaultChannelPipeline/]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

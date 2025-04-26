@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-26 19:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 19:49:13 +0000"
+    },
+    "done": false
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2025-04-26 19:36:50 +0000"
@@ -47,9 +59,21 @@
     },
     "done": true
   },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-04-26 19:43:45 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-26 19:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-26 19:49:13 +0000"
     },
     "done": true
   },
