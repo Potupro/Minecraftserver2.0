@@ -69,9 +69,11 @@
     "criteria": {
       "cooked_porkchop": "2025-04-26 01:15:32 +0000",
       "cooked_mutton": "2025-04-26 20:07:06 +0000",
+      "apple": "2025-04-26 20:56:01 +0000",
       "bread": "2025-04-26 19:39:14 +0000",
       "golden_apple": "2025-04-26 20:30:41 +0000",
-      "glow_berries": "2025-04-26 20:39:20 +0000"
+      "glow_berries": "2025-04-26 20:39:20 +0000",
+      "mushroom_stew": "2025-04-26 20:56:08 +0000"
     },
     "done": false
   },
@@ -99,6 +101,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-26 19:50:23 +0000"
@@ -111,6 +119,12 @@
       "opened_chest": "2025-04-26 20:30:32 +0000"
     },
     "done": false
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:56:41 +0000"
+    },
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {

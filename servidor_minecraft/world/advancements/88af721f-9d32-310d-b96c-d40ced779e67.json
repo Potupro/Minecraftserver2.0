@@ -150,12 +150,24 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:55:36 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-26 20:34:27 +0000",
       "opened_chest": "2025-04-26 20:30:31 +0000"
     },
     "done": false
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:56:42 +0000"
+    },
+    "done": true
   },
   "lootr:1barrel": {
     "criteria": {
