@@ -3858,3 +3858,96 @@ java.net.SocketException: Connection reset
 [26Apr2025 20:30:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement ['X' Marks the Spot]
 [26Apr2025 20:30:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement ['X' Marks the Spot]
 [26Apr2025 20:31:40.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Isn't It Iron Pick]
+[26Apr2025 20:34:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Barrel Booty]
+[26Apr2025 20:34:27.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Barrel Booty]
+[26Apr2025 20:36:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[26Apr2025 20:36:11.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[26Apr2025 20:37:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[26Apr2025 20:38:11.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/179225, l='ServerLevel[Mundo nuevo]', x=-1339.41, y=82.00, z=667.95] died: Belladonna died from internal damage.
+[26Apr2025 20:40:56.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:40:59.399] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:41:04.155] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:41:21.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:21.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:24.748] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:26.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:30.393] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:31.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:33.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:41:36.651] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:11.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:12.887] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:25.955] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=203.160.80.85:61971, claimAddress=209.25.140.2:43776, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -53, -96, 80, 85, -14, 19, -3, -32, -9, -93, -85, 0, 104, 13, 69, 49, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -59, -93, -85, 0, 0, 0, 0, 0, 42, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, -19, 13, -66, 70, -79, -41, 38, 70, -121, 91, 94, 113, 67, 8, 93, 111], tunnelServerId=1, dataCenterId=42}
+[26Apr2025 20:42:25.955] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[26Apr2025 20:42:25.955] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43776 to claim client
+[26Apr2025 20:42:25.966] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[26Apr2025 20:42:25.967] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[26Apr2025 20:42:25.977] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[26Apr2025 20:42:25.978] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[26Apr2025 20:42:25.978] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[26Apr2025 20:42:25.978] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[26Apr2025 20:42:25.979] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[26Apr2025 20:42:36.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:37.847] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:46.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:47.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:51.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:54.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:55.864] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:42:56.535] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:42:59.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:01.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:43:02.488] [nioEventLoopGroup-2-1/WARN] [io.netty.channel.DefaultChannelPipeline/]: An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:258) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.82.Final.jar%2380!/:4.1.82.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 20:43:02.908] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:03.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:07.002] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:07.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:09.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:26.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:43:31.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:34.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:43:38.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:42.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:46.841] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:43:52.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:43:54.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:43:55.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[26Apr2025 20:43:56.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:44:02.054] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:03.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:44:06.199] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:19.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:20.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:21.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:23.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:44:41.653] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:48:22.626] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 20:48:22.627] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 20:48:22.627] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 20:48:22.627] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 20:48:24.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[26Apr2025 20:48:24.243] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[26Apr2025 20:48:25.403] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[26Apr2025 20:48:25.404] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[26Apr2025 20:48:25.405] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1317, y=-56, z=197}
+[26Apr2025 20:48:34.888] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 20:48:34.888] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 20:48:34.888] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 20:48:34.889] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 20:49:33.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/188832, l='ServerLevel[Mundo nuevo]', x=-1512.48, y=-7.00, z=528.48] died: Deyvid was burnt to a crisp whilst fighting Zombie
+[26Apr2025 20:52:24.491] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/191023, l='ServerLevel[Mundo nuevo]', x=-1607.31, y=68.70, z=591.62] died: Dany_Why was slain by Zombie

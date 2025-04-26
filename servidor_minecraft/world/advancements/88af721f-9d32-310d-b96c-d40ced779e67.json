@@ -110,7 +110,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 19:52:06 +0000",
-      "cooked_mutton": "2025-04-26 20:12:22 +0000"
+      "cooked_mutton": "2025-04-26 20:12:22 +0000",
+      "apple": "2025-04-26 20:46:05 +0000",
+      "potato": "2025-04-26 20:40:31 +0000",
+      "golden_apple": "2025-04-26 20:30:43 +0000",
+      "glow_berries": "2025-04-26 20:39:39 +0000"
     },
     "done": false
   },
@@ -139,6 +143,25 @@
       "minecraft:windswept_forest": "2025-04-26 20:29:09 +0000"
     },
     "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-26 20:30:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:34:27 +0000",
+      "opened_chest": "2025-04-26 20:30:31 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:34:27 +0000"
+    },
+    "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
