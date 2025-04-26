@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "58193a45546a346a80a9e4a992ad80bf"
+	name: "PetterX#58193a45"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

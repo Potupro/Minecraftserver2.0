@@ -1,0 +1,87 @@
+{
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_chest_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/hoglin_armor": {
+    "criteria": {
+      "has_legs_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "health_and_disease:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2025-04-26 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2025-04-26 01:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-26 01:15:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
