@@ -116,7 +116,8 @@
       "potato": "2025-04-26 20:40:31 +0000",
       "golden_apple": "2025-04-26 20:30:43 +0000",
       "cookie": "2025-04-26 21:06:11 +0000",
-      "glow_berries": "2025-04-26 20:39:39 +0000"
+      "glow_berries": "2025-04-26 20:39:39 +0000",
+      "golden_carrot": "2025-04-26 21:18:30 +0000"
     },
     "done": false
   },
@@ -145,6 +146,12 @@
       "minecraft:windswept_forest": "2025-04-26 20:29:09 +0000"
     },
     "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-26 21:22:07 +0000"
+    },
+    "done": true
   },
   "lootr:1chest": {
     "criteria": {
@@ -186,6 +193,18 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-04-26 20:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-26 21:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 21:19:53 +0000"
     },
     "done": true
   },
