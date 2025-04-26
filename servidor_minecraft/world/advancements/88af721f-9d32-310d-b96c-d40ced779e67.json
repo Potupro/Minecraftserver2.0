@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-04-26 19:52:06 +0000"
+    },
+    "done": false
+  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-04-26 19:36:50 +0000"
@@ -29,6 +35,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-26 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-26 19:52:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-26 19:48:56 +0000"
@@ -40,6 +58,18 @@
       "minecraft:zombie": "2025-04-26 19:49:13 +0000"
     },
     "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 19:51:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 19:53:23 +0000"
+    },
+    "done": true
   },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
@@ -56,6 +86,12 @@
   "cold_sweat:recipes/hoglin_armor": {
     "criteria": {
       "has_boots_recipe": "2025-04-26 19:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-26 19:53:23 +0000"
     },
     "done": true
   },
@@ -88,6 +124,13 @@
       "has_recipe": "2025-04-26 19:36:50 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-26 19:53:35 +0000",
+      "minecraft:lush_caves": "2025-04-26 19:55:37 +0000"
+    },
+    "done": false
   },
   "cold_sweat:extreme_temps": {
     "criteria": {

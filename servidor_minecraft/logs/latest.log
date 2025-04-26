@@ -2988,3 +2988,55 @@ java.net.SocketException: Connection reset
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Apr2025 19:53:46.485] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:46.486] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:46.487] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:46.487] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:49.747] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:49.748] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:49.748] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:49.749] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:49.752] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1307, y=-58, z=78}
+[26Apr2025 19:53:52.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:52.934] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[26Apr2025 19:53:52.935] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:52.935] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[26Apr2025 19:53:58.721] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1317, y=-56, z=197}
+[26Apr2025 19:54:17.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/112315, l='ServerLevel[Mundo nuevo]', x=-570.07, y=121.00, z=118.37] died, message: 'Villager suffocated in a wall'
+[26Apr2025 20:01:03.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Acquire Hardware]
+[26Apr2025 20:02:16.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:20.248] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:31.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:42.542] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:46.541] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:46.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:47.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:02:50.002] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:51.059] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:52.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:52.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:56.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:02:59.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:00.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:00.156] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:01.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:03.991] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:05.099] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:05.365] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:07.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:07.991] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:09.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:10.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:12.044] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:14.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:14.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:15.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:16.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:18.146] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:19.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:19.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:19.789] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:21.147] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[26Apr2025 20:03:25.048] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:27.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[26Apr2025 20:03:30.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
