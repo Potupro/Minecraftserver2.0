@@ -68,6 +68,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 01:15:32 +0000",
+      "cooked_mutton": "2025-04-26 20:07:06 +0000",
       "bread": "2025-04-26 19:39:14 +0000"
     },
     "done": false
@@ -120,6 +121,12 @@
       "minecraft:lush_caves": "2025-04-26 19:55:40 +0000"
     },
     "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-26 20:01:03 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
