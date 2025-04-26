@@ -4134,3 +4134,6 @@ java.net.SocketException: Connection reset
 [26Apr2025 21:02:14.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has reached the goal [Half a flight]
 [26Apr2025 21:02:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has reached the goal [Half a flight]
 [26Apr2025 21:03:23.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[26Apr2025 21:07:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Cover Me with Diamonds]
+[26Apr2025 21:12:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[26Apr2025 21:13:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
