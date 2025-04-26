@@ -29,12 +29,6 @@
     },
     "done": true
   },
-  "health_and_disease:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-04-26 00:59:45 +0000"
-    },
-    "done": true
-  },
   "cold_sweat:recipes/soulspring_lamp": {
     "criteria": {
       "has_recipe": "2025-04-26 00:59:45 +0000"
@@ -73,13 +67,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-26 01:15:32 +0000"
+      "cooked_porkchop": "2025-04-26 01:15:32 +0000",
+      "bread": "2025-04-26 19:39:14 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-26 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "dyairdrop:unlockflare": {
+    "criteria": {
+      "unlockflare": "2025-04-26 19:35:03 +0000"
     },
     "done": true
   },

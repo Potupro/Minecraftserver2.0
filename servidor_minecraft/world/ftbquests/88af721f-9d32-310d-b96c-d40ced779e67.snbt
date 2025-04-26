@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "88af721f9d32310db96cd40ced779e67"
+	name: "Francisco_55#88af721f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
