@@ -69,6 +69,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-26 01:15:32 +0000",
       "cooked_mutton": "2025-04-26 20:07:06 +0000",
+      "cooked_beef": "2025-04-27 20:01:17 +0000",
       "apple": "2025-04-26 20:56:01 +0000",
       "pumpkin_pie": "2025-04-26 21:33:51 +0000",
       "bread": "2025-04-26 19:39:14 +0000",
@@ -86,45 +87,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "dyairdrop:unlockflare": {
     "criteria": {
-      "diamond_helmet": "2025-04-26 21:07:16 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-04-26 20:30:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-26 19:50:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-26 21:00:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-26 20:30:31 +0000"
-    },
-    "done": true
-  },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-04-26 21:02:14 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-04-26 20:55:33 +0000"
+      "unlockflare": "2025-04-26 19:35:03 +0000"
     },
     "done": true
   },
@@ -134,46 +99,9 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2025-04-26 20:34:19 +0000",
-      "opened_chest": "2025-04-26 20:30:32 +0000"
-    },
-    "done": false
-  },
-  "lootr:25loot": {
-    "criteria": {
-      "loot_stat": "2025-04-26 20:56:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-04-26 19:52:23 +0000"
-    },
-    "done": true
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-04-26 19:50:35 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-04-26 20:34:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-26 21:26:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-04-26 20:31:40 +0000"
     },
     "done": true
   },
@@ -183,9 +111,15 @@
     },
     "done": true
   },
-  "dyairdrop:unlockflare": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "unlockflare": "2025-04-26 19:35:03 +0000"
+      "get_stone": "2025-04-26 19:50:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-26 19:52:23 +0000"
     },
     "done": true
   },
@@ -200,6 +134,79 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-26 20:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-26 20:30:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-26 20:30:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:34:19 +0000",
+      "opened_chest": "2025-04-26 20:30:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 20:34:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:55:33 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 20:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-26 21:00:03 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-04-26 21:02:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-26 21:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-26 21:26:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:35:28 +0000"
     },
     "done": true
   },

@@ -218,5 +218,11 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 21:35:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
