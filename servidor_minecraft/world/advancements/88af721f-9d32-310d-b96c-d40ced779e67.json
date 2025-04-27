@@ -151,9 +151,13 @@
       "minecraft:taiga": "2025-04-26 21:28:46 +0000",
       "minecraft:frozen_river": "2025-04-27 20:19:54 +0000",
       "minecraft:birch_forest": "2025-04-27 21:22:00 +0000",
+      "minecraft:wooded_badlands": "2025-04-27 21:37:17 +0000",
+      "minecraft:badlands": "2025-04-27 21:37:24 +0000",
       "minecraft:beach": "2025-04-27 20:06:28 +0000",
       "minecraft:dark_forest": "2025-04-27 21:19:56 +0000",
+      "minecraft:sparse_jungle": "2025-04-27 21:37:15 +0000",
       "minecraft:river": "2025-04-26 19:53:35 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-27 21:32:42 +0000",
       "minecraft:snowy_plains": "2025-04-27 20:20:01 +0000",
       "minecraft:snowy_taiga": "2025-04-27 20:18:34 +0000",
       "minecraft:swamp": "2025-04-27 21:11:04 +0000",
@@ -162,10 +166,12 @@
       "minecraft:lush_caves": "2025-04-26 19:55:37 +0000",
       "minecraft:deep_cold_ocean": "2025-04-27 20:07:05 +0000",
       "minecraft:frozen_ocean": "2025-04-27 20:10:20 +0000",
+      "minecraft:desert": "2025-04-27 21:37:48 +0000",
       "minecraft:windswept_forest": "2025-04-26 20:29:09 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-27 20:09:57 +0000",
       "minecraft:ocean": "2025-04-27 21:22:27 +0000",
       "minecraft:snowy_beach": "2025-04-27 20:18:57 +0000",
+      "minecraft:warm_ocean": "2025-04-27 21:36:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-27 21:20:44 +0000"
     },
     "done": false
@@ -288,6 +294,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-04-27 21:05:32 +0000"
+    },
+    "done": true
+  },
+  "spore:twisted_creation": {
+    "criteria": {
+      "pick_up_surgery": "2025-04-27 21:28:41 +0000"
     },
     "done": true
   },

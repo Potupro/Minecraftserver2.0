@@ -3225,3 +3225,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 21:22:02.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
 [27Apr2025 21:22:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
 [27Apr2025 21:25:57.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:28:41.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Anesthesia not required]
+[27Apr2025 21:30:51.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:32:17.426] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['TheCaramelGuy'/148583, l='ServerLevel[Mundo nuevo]', x=-1892.76, y=13.00, z=6481.58] died: TheCaramelGuy was slain by Zombie
+[27Apr2025 21:33:09.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:34:52.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:34:53.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:34:55.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:34:59.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:35:00.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:35:01.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:35:02.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:35:10.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:35:34.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
