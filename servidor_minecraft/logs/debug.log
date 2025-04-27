@@ -11286,3 +11286,427 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 20:06:39.936] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.48, y=86.00, z=1630.67], dimensionLocationPath overworld
 [27Apr2025 20:06:39.936] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.48, y=86.00, z=1630.67] in list []
 [27Apr2025 20:06:39.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.48, y=86.00, z=1630.67]
+[27Apr2025 20:06:44.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1645.64, y=113.50, z=1637.69], dimensionLocationPath overworld
+[27Apr2025 20:06:44.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1645.64, y=113.50, z=1637.69] in list []
+[27Apr2025 20:06:45.032] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1645.64, y=113.12, z=1637.69]
+[27Apr2025 20:06:48.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1639.86, y=87.00, z=1630.36], dimensionLocationPath overworld
+[27Apr2025 20:06:48.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1639.86, y=87.00, z=1630.36] in list []
+[27Apr2025 20:06:48.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1639.86, y=87.00, z=1630.36]
+[27Apr2025 20:07:05.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1662.91, y=61.43, z=1742.39], dimensionLocationPath overworld
+[27Apr2025 20:07:05.701] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1662.91, y=61.43, z=1742.39] in list []
+[27Apr2025 20:07:05.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1662.91, y=61.35, z=1742.60]
+[27Apr2025 20:07:15.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.40, y=86.00, z=1630.53], dimensionLocationPath overworld
+[27Apr2025 20:07:15.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.40, y=86.00, z=1630.53] in list []
+[27Apr2025 20:07:18.140] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1640.40, y=86.00, z=1630.53]
+[27Apr2025 20:07:23.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27Apr2025 20:07:37.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:07:39.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Francisco_55) moved wrongly! 0.3408203125
+[27Apr2025 20:07:39.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Francisco_55) moved wrongly! 0.3408203125
+[27Apr2025 20:07:39.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Francisco_55) moved wrongly! 0.3408203125
+[27Apr2025 20:07:39.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Francisco_55) moved wrongly! 0.3408203125
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 20:07:52.181] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 20:07:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 20:07:52.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Apr2025 20:07:52.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Apr2025 20:10:30.182] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1735.12, y=63.00, z=2523.71], dimensionLocationPath overworld
+[27Apr2025 20:10:30.183] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1735.12, y=63.00, z=2523.71] in list []
+[27Apr2025 20:10:33.136] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.52, y=64.02, z=2541.90]
+[27Apr2025 20:11:13.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1741.60, y=63.00, z=2561.35], dimensionLocationPath overworld
+[27Apr2025 20:11:13.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1741.60, y=63.00, z=2561.35] in list []
+[27Apr2025 20:11:13.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1741.70, y=63.00, z=2561.22]
+[27Apr2025 20:11:13.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1741.70, y=63.00, z=2560.98], dimensionLocationPath overworld
+[27Apr2025 20:11:13.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1741.70, y=63.00, z=2560.98] in list []
+[27Apr2025 20:11:14.880] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1742.45, y=63.00, z=2560.60]
+[27Apr2025 20:11:16.485] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1751.31, y=63.75, z=2589.40], dimensionLocationPath overworld
+[27Apr2025 20:11:16.485] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1751.31, y=63.75, z=2589.40] in list []
+[27Apr2025 20:11:16.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1751.71, y=63.50, z=2590.79]
+[27Apr2025 20:11:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:11:58.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.82, y=63.00, z=2749.67], dimensionLocationPath overworld
+[27Apr2025 20:11:58.130] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.82, y=63.00, z=2749.67] in list []
+[27Apr2025 20:11:58.316] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.72, y=63.00, z=2749.73]
+[27Apr2025 20:11:58.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX froze to death
+[27Apr2025 20:11:58.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.61, y=63.00, z=2749.90], dimensionLocationPath overworld
+[27Apr2025 20:11:58.586] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.61, y=63.00, z=2749.90] in list []
+[27Apr2025 20:11:58.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1731.50, y=63.00, z=2750.16]
+[27Apr2025 20:12:01.168] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1745784721161
+[27Apr2025 20:12:06.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to -1734.500000, 62.000000, 2732.500000]
+[27Apr2025 20:12:15.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 froze to death
+[27Apr2025 20:12:17.462] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1745784737457
+[27Apr2025 20:12:23.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[27Apr2025 20:12:35.985] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1723.36, y=69.12, z=2759.81], dimensionLocationPath overworld
+[27Apr2025 20:12:35.985] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1723.36, y=69.12, z=2759.81] in list []
+[27Apr2025 20:12:36.090] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1723.43, y=68.90, z=2760.05]
+[27Apr2025 20:12:37.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1725.45, y=66.88, z=2757.86], dimensionLocationPath overworld
+[27Apr2025 20:12:37.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1725.45, y=66.88, z=2757.86] in list []
+[27Apr2025 20:12:37.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1725.45, y=66.88, z=2757.86]
+[27Apr2025 20:12:52.187] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 20:12:52.187] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 20:12:52.187] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 20:12:52.188] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 20:12:52.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Apr2025 20:12:52.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Apr2025 20:13:08.180] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.53, y=63.00, z=2759.42], dimensionLocationPath overworld
+[27Apr2025 20:13:08.180] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.53, y=63.00, z=2759.42] in list []
+[27Apr2025 20:13:10.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.70, y=63.00, z=2761.36]
+[27Apr2025 20:13:22.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:24.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:24.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:26.976] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:27.173] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:32.305] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:32.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:34.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:34.591] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:35.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:35.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:36.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:37.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:37.481] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1729.43, y=62.00, z=2761.91], dimensionLocationPath overworld
+[27Apr2025 20:13:37.481] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1729.43, y=62.00, z=2761.91] in list []
+[27Apr2025 20:13:37.585] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1729.43, y=62.00, z=2761.91]
+[27Apr2025 20:13:38.827] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:39.676] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:13:40.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:41.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:42.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:44.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:49.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:50.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:13:59.740] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1725.71, y=62.00, z=2762.61], dimensionLocationPath overworld
+[27Apr2025 20:13:59.741] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1725.71, y=62.00, z=2762.61] in list []
+[27Apr2025 20:13:59.836] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1725.71, y=62.00, z=2762.61]
+[27Apr2025 20:14:00.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:06.319] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:10.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:10.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:10.837] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:11.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:16.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:14:18.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:19.176] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:14:20.021] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:14:43.076] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:14:44.075] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:01.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Lining Up]
+[27Apr2025 20:15:05.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Lining Up]
+[27Apr2025 20:15:12.472] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:16.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:17.024] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:17.473] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:24.303] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:24.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:33.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:34.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:41.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:44.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:47.181] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:15:49.021] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:56992, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -34, -96, 0, 0, 0, 0, 27, 52, 103, -55, -85, 10, 104, 14, -112, 117, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 29, -55, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -87, -59, 59, -67, -43, -97, -23, -101, 60, -87, 27, -70, -30, -123, 61, -8], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:49.021] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:49.021] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:49.022] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45768, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -56, -46, 99, 65, 87, -85, 10, 104, 14, -112, 117, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -106, 87, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 88, -6, -2, 28, -59, -23, 39, -29, 104, -94, 114, -49, -114, 42, -123, -90], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:49.022] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:49.022] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:49.034] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:49.034] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:49.034] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:49.035] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:49.045] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:49.046] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:49.046] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:49.046] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:49.046] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:49.047] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:49.047] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:49.047] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:49.047] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:49.048] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:49.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:50.097] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:50.987] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45776, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -48, 77, -36, -55, -52, -85, 10, 104, 14, -112, 118, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 103, -52, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -10, -4, -128, -22, -39, 100, -21, 10, -105, -122, -33, -69, 122, -113, -20, 91], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:50.988] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:50.988] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:51.000] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:51.000] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:51.012] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:51.013] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:51.013] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:51.013] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:51.014] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:51.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:51.278] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45780, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -44, -2, 52, 12, 67, -85, 10, 104, 14, -112, 119, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -74, 67, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 47, 51, 124, 75, 86, -15, 122, 1, -121, -113, -8, 56, -6, 124, 73, 25], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:51.279] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:51.279] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:51.291] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:51.292] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:51.303] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:51.304] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:51.304] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:51.304] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:51.305] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:51.817] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45784, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -40, -101, 24, 17, 70, -85, 10, 104, 14, -112, 119, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 23, 70, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 40, 39, -19, 123, -101, 107, 42, 99, -43, -21, 85, 13, 125, 63, 76, 30], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:51.817] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:51.817] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:51.830] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:51.830] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:51.841] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:51.842] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:51.842] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:51.843] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:51.843] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:51.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:15:52.173] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45800, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -24, 1, -125, 96, -58, -85, 10, 104, 14, -112, 120, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -86, -58, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 3, -65, -111, -69, 79, 99, -92, 56, 49, -70, 47, 16, 16, -57, -70, -100], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:52.174] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:52.174] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:52.185] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:52.186] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:52.196] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:52.197] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:52.197] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:52.197] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:52.198] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:54.072] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45814, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -78, -10, -75, 53, -85, -95, -85, 10, 104, 14, -112, 122, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -33, -95, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -4, 50, 74, 17, -95, -122, 114, -113, -6, 9, -55, 109, 67, 24, 23, 88], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:54.072] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:54.073] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:54.085] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:54.085] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:54.096] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:54.097] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:54.097] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:54.097] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:54.098] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:54.988] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:45830, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -77, 6, 90, -85, -46, 70, -85, 10, 104, 14, -112, 122, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 117, 70, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 118, -88, 4, 74, 49, 116, -85, -50, -4, -121, -71, 79, -59, -51, 121, -33], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:54.989] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:54.989] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:55.000] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:55.000] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:55.011] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:55.012] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:55.012] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:55.013] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:55.013] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:55.279] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:43892, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -85, 116, -121, 98, -16, -6, -85, 10, 104, 14, -112, 123, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -44, -6, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -62, -107, -37, 33, -9, -114, 81, 105, 103, -9, 69, -81, 82, -48, 51, 116], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:55.280] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:55.280] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:55.292] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:55.292] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:55.303] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:55.304] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:55.304] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:55.304] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:55.305] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:55.818] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:43906, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -85, -126, -95, 79, -120, 77, -85, 10, 104, 14, -112, 123, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 53, 77, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -2, 3, -61, -125, -86, -51, 60, -121, -94, -102, -98, -47, -57, 31, 123, 70], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:55.818] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:55.818] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:55.830] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:55.830] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:55.841] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:55.842] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:55.842] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:55.842] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:55.842] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:15:56.174] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:43916, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -85, -116, -94, -20, 48, -32, -85, 10, 104, 14, -112, 124, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 71, -32, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 22, 65, -35, 15, 113, 80, -84, -87, 92, 99, 69, -30, -69, 116, 89, 120], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:15:56.174] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:15:56.175] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:15:56.186] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:15:56.187] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:15:56.198] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:15:56.198] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:15:56.199] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:15:56.199] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:15:56.199] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:16:03.180] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1727.77, y=63.00, z=2762.70], dimensionLocationPath overworld
+[27Apr2025 20:16:03.181] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1727.77, y=63.00, z=2762.70] in list []
+[27Apr2025 20:16:03.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1727.77, y=63.00, z=2762.70]
+[27Apr2025 20:16:05.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.70, y=63.00, z=2759.93], dimensionLocationPath overworld
+[27Apr2025 20:16:05.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.70, y=63.00, z=2759.93] in list []
+[27Apr2025 20:16:06.130] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.70, y=63.00, z=2760.04]
+[27Apr2025 20:16:06.630] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.37, y=63.00, z=2762.70], dimensionLocationPath overworld
+[27Apr2025 20:16:06.631] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.37, y=63.00, z=2762.70] in list []
+[27Apr2025 20:16:06.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.60, y=63.00, z=2762.70]
+[27Apr2025 20:16:07.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.60, y=63.00, z=2762.70], dimensionLocationPath overworld
+[27Apr2025 20:16:07.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.60, y=63.00, z=2762.70] in list []
+[27Apr2025 20:16:07.128] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.60, y=63.00, z=2762.70]
+[27Apr2025 20:16:08.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.45, y=63.88, z=2756.74], dimensionLocationPath overworld
+[27Apr2025 20:16:08.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.45, y=63.88, z=2756.74] in list []
+[27Apr2025 20:16:08.528] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/197, l='ServerLevel[Mundo nuevo]', x=-1727.44, y=63.80, z=2756.67]
+[27Apr2025 20:16:16.722] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:55276, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -41, -20, -106, 3, -126, -70, -85, 10, 104, 14, -112, -112, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -42, -70, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -36, 6, -75, -96, -101, 103, 55, 76, -31, 115, 47, -98, 123, 95, 18, -25], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:16:16.723] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:16:16.723] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:16:16.735] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:16:16.735] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:16:16.747] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:16:16.747] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:16:16.748] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:16:16.748] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:16:16.748] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:16:19.723] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=216.128.138.102:55286, claimAddress=209.25.140.2:43786, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -40, -128, -118, 102, -41, -10, -118, 114, 13, 109, -85, 10, 104, 14, -112, -109, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -67, 109, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -18, 45, -123, -84, 44, -57, 33, -70, 52, -58, 52, -102, 93, 65, -18, 49], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:16:19.724] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:16:19.724] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:16:19.736] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:16:19.736] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:16:19.747] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:16:19.748] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:16:19.748] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:16:19.748] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:16:19.749] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:16:23.027] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:44264, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -84, -24, 0, 0, 0, 0, 13, 9, -112, 70, -85, 10, 104, 14, -112, -105, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -66, 70, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 13, -76, 14, -26, 90, 37, 76, -98, -58, 1, -28, -11, -99, -58, -51, -86], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:16:23.027] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:16:23.027] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:16:23.040] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:16:23.040] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:16:23.051] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:16:23.052] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:080c:0001:0000:0000:0000:00c2]:52297, peerAddr=[2001:19f0:6402:08f2:5400:05ff:fe0c:67c3]:44272, claimAddress=209.25.140.2:43786, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 32, 1, 25, -16, 100, 2, 8, -14, 84, 0, 5, -1, -2, 12, 103, -61, -84, -16, 0, 0, 0, 0, 28, -118, 34, -10, -85, 10, 104, 14, -112, -105, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -109, -10, -85, 10, 0, 0, 0, 0, 44, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 126, 20, -123, -57, 1, 76, 6, 13, 76, 119, -21, 59, -51, 5, -10, -57], tunnelServerId=1, dataCenterId=44}
+[27Apr2025 20:16:23.052] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:16:23.052] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:16:23.052] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:16:23.052] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43786 to claim client
+[27Apr2025 20:16:23.053] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:16:23.053] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:16:23.065] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:16:23.065] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:16:23.076] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:16:23.077] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:16:23.077] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:16:23.077] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:16:23.078] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:16:58.130] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.17, y=62.00, z=2761.66], dimensionLocationPath overworld
+[27Apr2025 20:16:58.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.17, y=62.00, z=2761.66] in list []
+[27Apr2025 20:16:58.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/1171, l='ServerLevel[Mundo nuevo]', x=-1728.17, y=62.00, z=2761.66]
