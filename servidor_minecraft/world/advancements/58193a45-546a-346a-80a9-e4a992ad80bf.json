@@ -238,9 +238,45 @@
     },
     "done": true
   },
+  "spore:inf_hazmat": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 20:47:01 +0000"
+    },
+    "done": true
+  },
+  "spore:lost_technology": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-04-27 20:47:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-27 20:43:01 +0000"
+    },
+    "done": true
+  },
+  "spore:freezing_protocole": {
+    "criteria": {
+      "pick_up_cdu": "2025-04-27 20:47:10 +0000"
+    },
+    "done": true
+  },
+  "spore:spore": {
+    "criteria": {
+      "pick_up_scanner": "2025-04-27 20:50:07 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-27 20:34:28 +0000"
+    },
+    "done": true
+  },
+  "spore:lore1": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-04-27 20:50:11 +0000"
     },
     "done": true
   },

@@ -14571,3 +14571,324 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 20:47:27.528] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2135.47, y=64.00, z=3391.14], dimensionLocationPath overworld
 [27Apr2025 20:47:27.528] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2135.47, y=64.00, z=3391.14] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
 [27Apr2025 20:47:27.578] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2135.27, y=64.00, z=3391.14]
+[27Apr2025 20:47:31.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2133.11, y=64.00, z=3389.30], dimensionLocationPath overworld
+[27Apr2025 20:47:31.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2133.11, y=64.00, z=3389.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
+[27Apr2025 20:47:34.127] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.30, y=65.00, z=3394.36]
+[27Apr2025 20:47:34.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.30, y=65.00, z=3394.10], dimensionLocationPath overworld
+[27Apr2025 20:47:34.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.30, y=65.00, z=3394.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
+[27Apr2025 20:47:34.433] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.30, y=65.00, z=3394.09]
+[27Apr2025 20:47:35.332] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2149.32, y=64.00, z=3395.94]
+[27Apr2025 20:47:45.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Scanning time]
+[27Apr2025 20:47:46.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Who said you needed starch]
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 20:47:52.182] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 20:47:52.183] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 20:47:52.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Apr2025 20:47:52.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Apr2025 20:48:03.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2148.01, y=68.00, z=3397.89], dimensionLocationPath overworld
+[27Apr2025 20:48:03.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2148.01, y=68.00, z=3397.89] in list []
+[27Apr2025 20:48:03.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2147.30, y=68.00, z=3396.73]
+[27Apr2025 20:48:03.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2144.53, y=69.25, z=3395.20], dimensionLocationPath overworld
+[27Apr2025 20:48:03.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2144.53, y=69.25, z=3395.20] in list []
+[27Apr2025 20:48:08.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2144.69, y=68.00, z=3389.54]
+[27Apr2025 20:48:24.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[27Apr2025 20:48:27.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.85, y=70.25, z=3396.31], dimensionLocationPath overworld
+[27Apr2025 20:48:27.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.85, y=70.25, z=3396.31] in list []
+[27Apr2025 20:48:27.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.83, y=70.18, z=3396.59]
+[27Apr2025 20:48:37.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.82, y=68.00, z=3399.11], dimensionLocationPath overworld
+[27Apr2025 20:48:37.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.82, y=68.00, z=3399.11] in list []
+[27Apr2025 20:48:37.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2146.82, y=68.00, z=3398.97]
+[27Apr2025 20:49:03.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.49, y=64.00, z=3389.87], dimensionLocationPath overworld
+[27Apr2025 20:49:03.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.49, y=64.00, z=3389.87] in list []
+[27Apr2025 20:49:04.012] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/64884, l='ServerLevel[Mundo nuevo]', x=-2131.49, y=65.32, z=3389.87], dimensionLocationPath overworld
+[27Apr2025 20:49:04.012] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/64884, l='ServerLevel[Mundo nuevo]', x=-2131.49, y=65.32, z=3389.87] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
+[27Apr2025 20:49:05.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.49, y=64.00, z=3389.87]
+[27Apr2025 20:49:35.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.53, y=65.00, z=3393.48], dimensionLocationPath overworld
+[27Apr2025 20:49:35.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.53, y=65.00, z=3393.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@fd74]
+[27Apr2025 20:49:35.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.60, y=65.00, z=3393.40]
+[27Apr2025 20:49:41.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.01, y=64.00, z=3390.04], dimensionLocationPath overworld
+[27Apr2025 20:49:41.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.01, y=64.00, z=3390.04] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@fd74]
+[27Apr2025 20:49:41.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.02, y=64.00, z=3389.89]
+[27Apr2025 20:49:43.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/64884, l='ServerLevel[Mundo nuevo]', x=-2131.55, y=59.00, z=3389.13, removed=DISCARDED]
+[27Apr2025 20:49:49.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.15, y=59.00, z=3389.31], dimensionLocationPath overworld
+[27Apr2025 20:49:49.228] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.15, y=59.00, z=3389.31] in list []
+[27Apr2025 20:49:50.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2132.96, y=59.00, z=3389.32]
+[27Apr2025 20:49:53.637] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.31, y=59.00, z=3389.30], dimensionLocationPath overworld
+[27Apr2025 20:49:53.637] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.31, y=59.00, z=3389.30] in list []
+[27Apr2025 20:49:58.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2137.56, y=59.19, z=3392.71]
+[27Apr2025 20:50:00.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2137.65, y=59.19, z=3393.04], dimensionLocationPath overworld
+[27Apr2025 20:50:00.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2137.65, y=59.19, z=3393.04] in list []
+[27Apr2025 20:50:03.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2137.65, y=59.19, z=3393.04]
+[27Apr2025 20:50:07.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Spore]
+[27Apr2025 20:50:11.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has reached the goal [Fragments of the past]
+[27Apr2025 20:51:07.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.11, y=59.00, z=3394.01], dimensionLocationPath overworld
+[27Apr2025 20:51:07.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.11, y=59.00, z=3394.01] in list []
+[27Apr2025 20:51:07.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.11, y=59.00, z=3394.01]
+[27Apr2025 20:51:15.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:18.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2138.06, y=59.00, z=3395.76], dimensionLocationPath overworld
+[27Apr2025 20:51:18.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2138.06, y=59.00, z=3395.76] in list []
+[27Apr2025 20:51:18.179] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.69, y=59.00, z=3395.73]
+[27Apr2025 20:51:20.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:31.693] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.66, y=59.00, z=3394.37], dimensionLocationPath overworld
+[27Apr2025 20:51:31.693] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.66, y=59.00, z=3394.37] in list []
+[27Apr2025 20:51:31.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.66, y=59.00, z=3394.37]
+[27Apr2025 20:51:33.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.33, y=59.00, z=3394.60], dimensionLocationPath overworld
+[27Apr2025 20:51:33.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.33, y=59.00, z=3394.60] in list []
+[27Apr2025 20:51:33.496] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.33, y=59.00, z=3394.60]
+[27Apr2025 20:51:33.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.30, y=59.56, z=3393.30], dimensionLocationPath overworld
+[27Apr2025 20:51:33.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.30, y=59.56, z=3393.30] in list []
+[27Apr2025 20:51:33.839] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2139.30, y=59.56, z=3393.30]
+[27Apr2025 20:51:35.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:35.627] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:36.374] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:36.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:37.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:38.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:38.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.90, y=59.56, z=3394.30], dimensionLocationPath overworld
+[27Apr2025 20:51:38.330] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.90, y=59.56, z=3394.30] in list []
+[27Apr2025 20:51:38.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2137.88, y=59.56, z=3394.27]
+[27Apr2025 20:51:38.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:39.072] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:39.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:39.569] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:41.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:41.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:42.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:42.469] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:45.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:48.184] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:48.923] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:51.215] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:51.721] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:51:52.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:51:57.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:52:05.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2134.59, y=59.00, z=3389.46], dimensionLocationPath overworld
+[27Apr2025 20:52:05.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2134.59, y=59.00, z=3389.46] in list []
+[27Apr2025 20:52:05.334] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2134.33, y=59.00, z=3389.46]
+[27Apr2025 20:52:17.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.30, y=64.00, z=3390.67], dimensionLocationPath overworld
+[27Apr2025 20:52:17.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.30, y=64.00, z=3390.67] in list []
+[27Apr2025 20:52:18.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.11, y=64.00, z=3391.96], dimensionLocationPath overworld
+[27Apr2025 20:52:18.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2132.11, y=64.00, z=3391.96] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
+[27Apr2025 20:52:18.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2131.30, y=64.00, z=3390.67]
+[27Apr2025 20:52:18.188] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2131.98, y=64.42, z=3392.36]
+[27Apr2025 20:52:18.489] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2131.68, y=65.18, z=3393.21], dimensionLocationPath overworld
+[27Apr2025 20:52:18.489] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2131.68, y=65.18, z=3393.21] in list []
+[27Apr2025 20:52:18.529] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2131.61, y=65.02, z=3393.35]
+[27Apr2025 20:52:26.577] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:52:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:52:39.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2148.63, y=75.00, z=3398.83], dimensionLocationPath overworld
+[27Apr2025 20:52:39.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2148.63, y=75.00, z=3398.83] in list []
+[27Apr2025 20:52:39.678] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2148.63, y=75.00, z=3398.82]
+[27Apr2025 20:52:51.278] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2152.07, y=74.50, z=3397.56], dimensionLocationPath overworld
+[27Apr2025 20:52:51.278] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2152.07, y=74.50, z=3397.56] in list []
+[27Apr2025 20:52:51.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2152.07, y=74.50, z=3397.56]
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: fallingtrees:tree_registry
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[27Apr2025 20:52:55.180] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[27Apr2025 20:52:55.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Apr2025 20:52:55.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Apr2025 20:53:16.773] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:53:20.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2172.64, y=64.60, z=3404.97], dimensionLocationPath overworld
+[27Apr2025 20:53:20.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2172.64, y=64.60, z=3404.97] in list []
+[27Apr2025 20:53:20.142] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2172.72, y=64.55, z=3405.22]
+[27Apr2025 20:53:26.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03], dimensionLocationPath overworld
+[27Apr2025 20:53:26.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03] in list []
+[27Apr2025 20:53:26.890] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03]
+[27Apr2025 20:53:33.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:53:34.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:53:37.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03], dimensionLocationPath overworld
+[27Apr2025 20:53:37.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03] in list []
+[27Apr2025 20:53:37.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03]
+[27Apr2025 20:53:39.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03], dimensionLocationPath overworld
+[27Apr2025 20:53:39.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03] in list []
+[27Apr2025 20:53:39.379] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.28, y=65.00, z=3408.03]
+[27Apr2025 20:53:40.579] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.25, y=65.00, z=3407.54], dimensionLocationPath overworld
+[27Apr2025 20:53:40.579] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.25, y=65.00, z=3407.54] in list []
+[27Apr2025 20:53:41.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2173.19, y=65.00, z=3407.65]
+[27Apr2025 20:53:44.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2177.36, y=62.38, z=3399.95], dimensionLocationPath overworld
+[27Apr2025 20:53:44.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2177.36, y=62.38, z=3399.95] in list []
+[27Apr2025 20:53:44.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2177.62, y=62.75, z=3399.82]
+[27Apr2025 20:53:48.266] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:53:50.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:53:52.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:00.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2180.01, y=67.00, z=3398.59], dimensionLocationPath overworld
+[27Apr2025 20:54:00.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2180.01, y=67.00, z=3398.59] in list []
+[27Apr2025 20:54:00.887] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2180.01, y=67.00, z=3398.59]
+[27Apr2025 20:54:05.618] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:06.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:10.482] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/70486, l='ServerLevel[Mundo nuevo]', x=-2135.84, y=23.00, z=3435.14] died: ABucketOfFriedChicken was slain by Zombie
+[27Apr2025 20:54:13.470] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:17.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:22.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.10, y=62.00, z=3408.06], dimensionLocationPath overworld
+[27Apr2025 20:54:22.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2133.10, y=62.00, z=3408.06] in list []
+[27Apr2025 20:54:22.488] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2134.58, y=63.00, z=3408.87]
+[27Apr2025 20:54:22.747] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2135.13, y=63.00, z=3409.49], dimensionLocationPath overworld
+[27Apr2025 20:54:22.747] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2135.13, y=63.00, z=3409.49] in list []
+[27Apr2025 20:54:23.395] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2135.94, y=63.00, z=3412.42]
+[27Apr2025 20:54:24.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:cannibal but it was marked as removed already
+[27Apr2025 20:54:31.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[27Apr2025 20:54:34.082] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2171.01, y=62.09, z=3442.95], dimensionLocationPath overworld
+[27Apr2025 20:54:34.082] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2171.01, y=62.09, z=3442.95] in list []
+[27Apr2025 20:54:34.136] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2170.98, y=62.26, z=3443.04]
+[27Apr2025 20:54:55.163] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[27Apr2025 20:55:08.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2158.97, y=63.00, z=3432.09], dimensionLocationPath overworld
+[27Apr2025 20:55:08.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2158.97, y=63.00, z=3432.09] in list []
+[27Apr2025 20:55:08.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2158.58, y=63.42, z=3431.75]
+[27Apr2025 20:55:21.732] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity prionmod:nightwalker but it was marked as removed already
+[27Apr2025 20:55:27.186] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.80, y=75.00, z=3564.22], dimensionLocationPath overworld
+[27Apr2025 20:55:27.186] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.80, y=75.00, z=3564.22] in list []
+[27Apr2025 20:55:27.432] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2141.03, y=75.00, z=3564.33]
+[27Apr2025 20:55:28.537] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.49, y=75.00, z=3563.83], dimensionLocationPath overworld
+[27Apr2025 20:55:28.537] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.49, y=75.00, z=3563.83] in list []
+[27Apr2025 20:55:28.591] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2139.47, y=75.00, z=3563.82]
+[27Apr2025 20:55:36.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2141.11, y=75.00, z=3564.41], dimensionLocationPath overworld
+[27Apr2025 20:55:36.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2141.11, y=75.00, z=3564.41] in list []
+[27Apr2025 20:55:36.389] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2141.09, y=75.00, z=3564.34]
+[27Apr2025 20:55:37.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2149.22, y=75.50, z=3397.59], dimensionLocationPath overworld
+[27Apr2025 20:55:37.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2149.22, y=75.50, z=3397.59] in list []
+[27Apr2025 20:55:37.391] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.80, y=75.00, z=3564.46], dimensionLocationPath overworld
+[27Apr2025 20:55:37.391] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.80, y=75.00, z=3564.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@8c71]
+[27Apr2025 20:55:37.446] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.80, y=75.00, z=3564.46]
+[27Apr2025 20:55:37.596] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PetterX'/35953, l='ServerLevel[Mundo nuevo]', x=-2149.22, y=75.50, z=3397.59]
+[27Apr2025 20:55:43.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:57:32.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.28, y=114.00, z=3565.19], dimensionLocationPath overworld
+[27Apr2025 20:57:32.092] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.28, y=114.00, z=3565.19] in list []
+[27Apr2025 20:57:32.131] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Francisco_55'/46796, l='ServerLevel[Mundo nuevo]', x=-2140.28, y=114.00, z=3565.19]

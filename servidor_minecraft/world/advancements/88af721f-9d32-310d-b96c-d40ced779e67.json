@@ -247,5 +247,29 @@
     },
     "done": true
   },
+  "spore:inf_hazmat": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-27 20:46:38 +0000"
+    },
+    "done": true
+  },
+  "spore:lost_technology": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-04-27 20:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-27 20:43:28 +0000"
+    },
+    "done": true
+  },
+  "spore:scanning_world": {
+    "criteria": {
+      "pick_up_scanner": "2025-04-27 20:47:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
