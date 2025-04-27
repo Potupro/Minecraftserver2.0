@@ -3238,3 +3238,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 21:35:02.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
 [27Apr2025 21:35:10.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
 [27Apr2025 21:35:34.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[27Apr2025 21:38:34.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/166741, l='ServerLevel[Mundo nuevo]', x=-1800.70, y=-1.00, z=7826.61] died: Ike was slain by Zombie
+[27Apr2025 21:38:38.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Tabcaps'/166740, l='ServerLevel[Mundo nuevo]', x=-1805.21, y=-0.30, z=7823.66] died: Tabcaps was slain by Zombie
+[27Apr2025 21:40:21.066] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[27Apr2025 21:40:50.774] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/174528, l='ServerLevel[Mundo nuevo]', x=-1804.92, y=69.00, z=8655.28] died: That_Insane_Guy was slain by Cannibal
+[27Apr2025 21:42:31.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[27Apr2025 21:42:32.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[27Apr2025 21:42:54.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/180793, l='ServerLevel[Mundo nuevo]', x=-1816.13, y=64.65, z=9377.80] died: The_Harbinger69 was slain by Zombie
+[27Apr2025 21:46:54.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[27Apr2025 21:46:56.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
