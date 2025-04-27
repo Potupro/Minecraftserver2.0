@@ -3014,3 +3014,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 20:34:48.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Francisco_55
 [27Apr2025 20:35:08.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
 [27Apr2025 20:37:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX froze to death
+[27Apr2025 20:37:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to -2079.500000, 63.000000, 3116.500000]
+[27Apr2025 20:43:01.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Suit Up]
+[27Apr2025 20:43:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Suit Up]
+[27Apr2025 20:45:51.945] [Thread-2/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Minecraftserver2.0/servidor_minecraft/config/coldsweat/world.toml is not correct. Correcting
+[27Apr2025 20:46:38.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [That suit was just for show]
+[27Apr2025 20:47:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [That suit was just for show]
+[27Apr2025 20:47:10.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Local ice age]
+[27Apr2025 20:47:19.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Who said you needed starch]
