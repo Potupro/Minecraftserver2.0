@@ -2616,3 +2616,215 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [27Apr2025 20:16:23.077] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
 [27Apr2025 20:16:23.077] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
 [27Apr2025 20:16:23.078] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:18:37.629] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:37.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:37.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:37.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:38.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:38.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.428] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:42.927] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:43.925] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:44.928] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:18:45.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:45.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:46.975] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.827] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:47.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.384] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.549] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.727] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:48.925] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.027] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.227] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.327] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:49.868] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:18:50.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:19:24.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX froze to death
+[27Apr2025 20:19:29.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to -1734.500000, 62.000000, 2732.500000]
+[27Apr2025 20:19:34.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to -1933.500000, 77.000000, 2774.500000]
+[27Apr2025 20:19:45.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[27Apr2025 20:23:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has completed the challenge [Centennial]
+[27Apr2025 20:24:10.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Apr2025 20:24:45.714] [nioEventLoopGroup-2-5/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:45.716] [nioEventLoopGroup-2-5/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:45.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 lost connection: Disconnected
+[27Apr2025 20:24:45.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 left the game
+[27Apr2025 20:24:45.728] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 88af721f-9d32-310d-b96c-d40ced779e67 was unloaded
+[27Apr2025 20:24:45.730] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Francisco_55
+[27Apr2025 20:24:47.223] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0814:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:62043, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -14, 91, 0, 0, 0, 0, 28, -14, -128, 60, -85, 8, 104, 14, -110, -113, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -14, 60, -85, 8, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -33, 89, 95, -93, -47, 19, 83, -11, -8, -35, 58, 121, -6, 8, 104, -37], tunnelServerId=1, dataCenterId=46}
+[27Apr2025 20:24:47.224] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:24:47.224] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:24:47.237] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:24:47.237] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:24:47.248] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:24:47.249] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:24:47.249] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:24:47.249] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:24:47.250] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:24:48.338] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0814:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:62045, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -14, 93, 0, 0, 0, 0, 42, 127, 30, 93, -85, 8, 104, 14, -110, -112, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -125, 93, -85, 8, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 90, -49, -80, 66, 118, 11, 90, 26, -123, 26, -76, -12, -50, -43, 87, 67], tunnelServerId=1, dataCenterId=46}
+[27Apr2025 20:24:48.338] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:24:48.339] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:24:48.350] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:24:48.350] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:24:48.361] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:24:48.362] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:24:48.362] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:24:48.362] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:24:48.363] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:24:57.036] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.037] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.038] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.039] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.040] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.041] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:24:57.065] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ed71b65[id=<null>,name=Francisco_55,properties={},legacy=false] (/[::1]:50858) lost connection: Disconnected
+[27Apr2025 20:24:57.918] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0814:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:62047, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -14, 95, 0, 0, 0, 0, 30, 29, 92, 18, -85, 8, 104, 14, -110, -103, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 38, 18, -85, 8, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 93, 43, -110, -106, -94, -78, -43, 125, 89, 12, 40, -12, -65, -128, -48, -123], tunnelServerId=1, dataCenterId=46}
+[27Apr2025 20:24:57.919] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:24:57.919] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:24:57.931] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:24:57.931] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:24:57.943] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:24:57.944] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:24:57.944] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:24:57.944] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:24:57.944] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:24:59.389] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0814:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:62049, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 20, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -14, 97, 0, 0, 0, 0, 46, 72, 109, 92, -85, 8, 104, 14, -110, -101, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -83, 92, -85, 8, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 93, -97, 120, -49, -24, -20, -55, -88, 114, -74, 56, -40, -15, 38, 104, 21], tunnelServerId=1, dataCenterId=46}
+[27Apr2025 20:24:59.389] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:24:59.390] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:24:59.401] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:24:59.401] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:24:59.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:24:59.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:24:59.412] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:24:59.413] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:24:59.413] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:25:02.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Francisco_55[/[::1]:59332] logged in with entity id 35798 at (-2148.404457272272, 70.0, 2916.6693857801015)
+[27Apr2025 20:25:02.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 joined the game
+[27Apr2025 20:25:02.429] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Francisco_55
+[27Apr2025 20:25:02.610] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Francisco_55
+[27Apr2025 20:25:02.613] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Francisco_55 (18)
+[27Apr2025 20:25:02.613] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Francisco_55
+[27Apr2025 20:25:02.635] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 88af721f-9d32-310d-b96c-d40ced779e67 was loaded
+[27Apr2025 20:25:11.321] [nioEventLoopGroup-2-5/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:25:11.321] [nioEventLoopGroup-2-5/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:25:11.321] [nioEventLoopGroup-2-5/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[27Apr2025 20:25:11.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX lost connection: Disconnected
+[27Apr2025 20:25:11.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX left the game
+[27Apr2025 20:25:11.374] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PetterX
+[27Apr2025 20:25:12.207] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=201.183.164.153:8851, claimAddress=209.25.140.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -55, -73, -92, -103, 34, -109, 60, -118, 35, 17, -85, 8, 104, 14, -110, -88, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -69, 17, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, -89, 56, -86, -90, 125, 98, 7, 14, 88, -101, -73, -124, 79, 7, 116, -97], tunnelServerId=1, dataCenterId=45}
+[27Apr2025 20:25:12.207] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:25:12.207] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:25:12.219] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:25:12.219] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:25:12.230] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:25:12.231] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:25:12.231] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:25:12.231] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:25:12.232] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:25:13.471] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=147.185.221.194:52297, peerAddr=201.183.164.153:8852, claimAddress=209.25.140.2:43784, claimToken=[44, 0, 60, -109, -71, -35, -62, -52, 73, -55, -73, -92, -103, 34, -108, -82, -68, 61, -46, -85, 8, 104, 14, -110, -87, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -50, -46, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 13, 23, -60, -108, 18, -31, -35, -15, -117, -72, -79, 45, 46, -69, -77, -75], tunnelServerId=1, dataCenterId=45}
+[27Apr2025 20:25:13.472] [Thread-18/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[27Apr2025 20:25:13.472] [Thread-18/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[27Apr2025 20:25:13.484] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[27Apr2025 20:25:13.484] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[27Apr2025 20:25:13.495] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[27Apr2025 20:25:13.496] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[27Apr2025 20:25:13.496] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[27Apr2025 20:25:13.496] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[27Apr2025 20:25:13.496] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[27Apr2025 20:25:16.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PetterX[/[::1]:56272] logged in with entity id 35953 at (-2146.5402861614875, 70.0, 2916.3277272591267)
+[27Apr2025 20:25:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX joined the game
+[27Apr2025 20:25:16.494] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to PetterX
+[27Apr2025 20:25:16.667] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from PetterX
+[27Apr2025 20:25:16.684] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PetterX (18)
+[27Apr2025 20:25:16.685] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PetterX

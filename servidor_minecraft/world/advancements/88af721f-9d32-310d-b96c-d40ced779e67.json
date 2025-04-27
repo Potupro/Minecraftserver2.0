@@ -146,14 +146,18 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-04-27 20:08:55 +0000",
       "minecraft:taiga": "2025-04-26 21:28:46 +0000",
+      "minecraft:frozen_river": "2025-04-27 20:19:54 +0000",
       "minecraft:beach": "2025-04-27 20:06:28 +0000",
       "minecraft:river": "2025-04-26 19:53:35 +0000",
+      "minecraft:snowy_plains": "2025-04-27 20:20:01 +0000",
+      "minecraft:snowy_taiga": "2025-04-27 20:18:34 +0000",
       "minecraft:cold_ocean": "2025-04-27 20:06:51 +0000",
       "minecraft:lush_caves": "2025-04-26 19:55:37 +0000",
       "minecraft:deep_cold_ocean": "2025-04-27 20:07:05 +0000",
       "minecraft:frozen_ocean": "2025-04-27 20:10:20 +0000",
       "minecraft:windswept_forest": "2025-04-26 20:29:09 +0000",
-      "minecraft:deep_frozen_ocean": "2025-04-27 20:09:57 +0000"
+      "minecraft:deep_frozen_ocean": "2025-04-27 20:09:57 +0000",
+      "minecraft:snowy_beach": "2025-04-27 20:18:57 +0000"
     },
     "done": false
   },
@@ -227,6 +231,18 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-26 21:35:17 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:insulate_armor": {
+    "criteria": {
+      "requirement": "2025-04-27 20:15:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-04-27 20:21:28 +0000"
     },
     "done": true
   },
