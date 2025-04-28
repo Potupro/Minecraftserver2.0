@@ -122,7 +122,8 @@
       "cookie": "2025-04-26 21:06:11 +0000",
       "glow_berries": "2025-04-26 20:39:39 +0000",
       "golden_carrot": "2025-04-26 21:18:30 +0000",
-      "mushroom_stew": "2025-04-27 21:09:57 +0000"
+      "mushroom_stew": "2025-04-27 21:09:57 +0000",
+      "carrot": "2025-04-28 02:03:43 +0000"
     },
     "done": false
   },
@@ -149,6 +150,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-27 21:20:12 +0000",
       "minecraft:mushroom_fields": "2025-04-27 20:08:55 +0000",
       "minecraft:taiga": "2025-04-26 21:28:46 +0000",
+      "minecraft:deep_ocean": "2025-04-27 22:44:35 +0000",
       "minecraft:frozen_river": "2025-04-27 20:19:54 +0000",
       "minecraft:birch_forest": "2025-04-27 21:22:00 +0000",
       "minecraft:wooded_badlands": "2025-04-27 21:37:17 +0000",
@@ -172,8 +174,10 @@
       "minecraft:ocean": "2025-04-27 21:22:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-27 22:04:38 +0000",
       "minecraft:snowy_beach": "2025-04-27 20:18:57 +0000",
+      "minecraft:windswept_savanna": "2025-04-27 23:07:10 +0000",
       "minecraft:warm_ocean": "2025-04-27 21:36:41 +0000",
-      "minecraft:old_growth_birch_forest": "2025-04-27 21:20:44 +0000"
+      "minecraft:old_growth_birch_forest": "2025-04-27 21:20:44 +0000",
+      "minecraft:plains": "2025-04-27 23:14:29 +0000"
     },
     "done": false
   },
@@ -301,6 +305,60 @@
   "spore:twisted_creation": {
     "criteria": {
       "pick_up_surgery": "2025-04-27 21:28:41 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_mobs": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-27 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-27 22:33:07 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_human": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 23:35:51 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 23:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-27 23:40:13 +0000"
+    },
+    "done": true
+  },
+  "webdisplays:screen": {
+    "criteria": {
+      "has_screen": "2025-04-27 23:41:02 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 23:41:08 +0000"
+    },
+    "done": true
+  },
+  "spore:griefer": {
+    "criteria": {
+      "hurt_infected": "2025-04-27 23:41:49 +0000"
     },
     "done": true
   },
