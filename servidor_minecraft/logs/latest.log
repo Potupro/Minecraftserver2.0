@@ -2710,3 +2710,46 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [28Apr2025 03:29:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Spectator Mode]
 [28Apr2025 03:30:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Creative Mode]
 [28Apr2025 03:30:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Survival Mode]
+[28Apr2025 03:31:10.457] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0810:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:50204, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 16, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -60, 28, 0, 0, 0, 0, -75, -12, -86, -91, -85, 8, 104, 14, -10, 126, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 77, -91, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -52, 75, 127, 10, -40, 124, -46, -74, -119, 66, 35, 10, -13, 74, 101, -70], tunnelServerId=1, dataCenterId=45}
+[28Apr2025 03:31:10.457] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[28Apr2025 03:31:10.457] [Thread-19/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[28Apr2025 03:31:10.468] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[28Apr2025 03:31:10.468] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[28Apr2025 03:31:10.479] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[28Apr2025 03:31:10.480] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[28Apr2025 03:31:10.480] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[28Apr2025 03:31:10.480] [nioEventLoopGroup-2-1/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[28Apr2025 03:31:10.480] [nioEventLoopGroup-2-2/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[28Apr2025 03:31:12.023] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0810:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:50205, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 16, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -60, 29, 0, 0, 0, 0, -53, -74, -97, -106, -85, 8, 104, 14, -10, 127, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, 115, -106, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 61, -23, 118, -26, -117, -30, 7, -22, -28, -27, -32, 30, -101, -114, -65, -23], tunnelServerId=1, dataCenterId=45}
+[28Apr2025 03:31:12.023] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[28Apr2025 03:31:12.024] [Thread-19/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[28Apr2025 03:31:12.036] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[28Apr2025 03:31:12.036] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[28Apr2025 03:31:12.048] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[28Apr2025 03:31:12.049] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[28Apr2025 03:31:12.049] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[28Apr2025 03:31:12.049] [nioEventLoopGroup-2-3/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[28Apr2025 03:31:12.049] [nioEventLoopGroup-2-4/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[28Apr2025 03:31:15.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Francisco_55[/[::1]:59220] logged in with entity id 49281 at (-17193.69999998808, 62.0, 10073.08413907121)
+[28Apr2025 03:31:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 joined the game
+[28Apr2025 03:31:15.068] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Francisco_55
+[28Apr2025 03:31:15.355] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Francisco_55
+[28Apr2025 03:31:15.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Francisco_55 (18)
+[28Apr2025 03:31:15.378] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Francisco_55
+[28Apr2025 03:31:15.408] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 88af721f-9d32-310d-b96c-d40ced779e67 was loaded
+[28Apr2025 03:31:58.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[28Apr2025 03:34:02.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[28Apr2025 03:34:03.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[28Apr2025 03:34:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A random airdrop is being deployed! Expected coordinates:minecraft:overworld [-16617,10113]
+[28Apr2025 03:35:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[28Apr2025 03:35:19.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
+[28Apr2025 03:35:29.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from PetterX: Location (-16620.8125, 63.377659887075424, 10112.978252293542) too far away from hit block BlockPos{x=-16620, y=63, z=10113}.
+[28Apr2025 03:35:30.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from PetterX: Location (-16620.8125, 63.941710352897644, 10112.925678797066) too far away from hit block BlockPos{x=-16620, y=63, z=10113}.
+[28Apr2025 03:35:31.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from PetterX: Location (-16620.795922756195, 63.669570446014404, 10114.0) too far away from hit block BlockPos{x=-16620, y=63, z=10113}.
+[28Apr2025 03:37:28.116] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[28Apr2025 03:37:28.117] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[28Apr2025 03:37:28.117] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[28Apr2025 03:39:01.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[28Apr2025 03:39:02.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[28Apr2025 03:39:09.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!
+[28Apr2025 03:39:33.950] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nunny'/66625, l='ServerLevel[Mundo nuevo]', x=-16119.26, y=-50.00, z=9853.08] died: Nunny was slain by Zombie

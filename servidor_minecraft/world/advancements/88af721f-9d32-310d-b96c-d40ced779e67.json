@@ -363,18 +363,6 @@
     },
     "done": true
   },
-  "spore:wendigo": {
-    "criteria": {
-      "hurt_infected": "2025-04-28 03:18:56 +0000"
-    },
-    "done": true
-  },
-  "spore:mound": {
-    "criteria": {
-      "hurt_infected": "2025-04-28 03:03:35 +0000"
-    },
-    "done": true
-  },
   "spore:braiomil": {
     "criteria": {
       "hurt_infected": "2025-04-28 02:44:40 +0000"
@@ -384,6 +372,18 @@
   "spore:leaper": {
     "criteria": {
       "hurt_infected": "2025-04-28 02:44:40 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 03:03:35 +0000"
+    },
+    "done": true
+  },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 03:18:56 +0000"
     },
     "done": true
   },
