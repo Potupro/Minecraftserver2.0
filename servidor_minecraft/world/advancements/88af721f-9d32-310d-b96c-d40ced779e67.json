@@ -362,5 +362,17 @@
     },
     "done": true
   },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 02:44:40 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 02:44:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
