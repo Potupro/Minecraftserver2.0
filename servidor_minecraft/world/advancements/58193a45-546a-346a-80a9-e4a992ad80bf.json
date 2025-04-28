@@ -374,6 +374,12 @@
     },
     "done": true
   },
+  "spore:wendigo": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 03:18:56 +0000"
+    },
+    "done": true
+  },
   "spore:inf_pillager": {
     "criteria": {
       "hurt_infected": "2025-04-28 02:32:57 +0000"

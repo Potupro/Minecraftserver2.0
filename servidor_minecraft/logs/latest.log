@@ -2692,3 +2692,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [28Apr2025 03:20:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
 [28Apr2025 03:20:06.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
 [28Apr2025 03:20:10.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved too quickly! 0.2689850648275751,-10.653729617588596,0.5903456210417062
+[28Apr2025 03:22:13.540] [nioEventLoopGroup-2-7/WARN] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to send data to tunnel
+[28Apr2025 03:22:13.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 lost connection: Disconnected
+[28Apr2025 03:22:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 left the game
+[28Apr2025 03:22:13.554] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 88af721f-9d32-310d-b96c-d40ced779e67 was unloaded
+[28Apr2025 03:22:13.556] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Francisco_55
+[28Apr2025 03:22:17.213] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: got new client: NewClient{connectAddr=[2602:fbaf:0810:0001:0000:0000:0000:00c2]:52297, peerAddr=[2803:6320:0030:6914:544d:03bd:ac7f:c0d1]:50163, claimAddress=209.25.140.2:43784, claimToken=[64, 0, 88, 38, 2, -5, -81, 8, 16, 0, 1, 0, 0, 0, 0, 0, 0, 0, -62, -52, 73, 40, 3, 99, 32, 0, 48, 105, 20, 84, 77, 3, -67, -84, 127, -64, -47, -61, -13, 0, 0, 0, 0, -25, -66, 85, 116, -85, 8, 104, 14, -12, 105, 0, 0, 0, 0, 0, 5, -42, 106, 0, 0, 0, 0, 0, 67, 127, -112, -109, 116, -85, 8, 0, 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 32, -101, 61, 102, -122, -42, 45, 5, 127, 125, -64, 123, 68, 101, 101, -107], tunnelServerId=1, dataCenterId=45}
+[28Apr2025 03:22:17.214] [Thread-19/INFO] [gg.playit.playitforge.PlayitManager/]: starting tcp tunnel for client
+[28Apr2025 03:22:17.214] [Thread-19/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: start connection to /209.25.140.2:43784 to claim client
+[28Apr2025 03:22:17.225] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to tunnel server, sending claim token
+[28Apr2025 03:22:17.225] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: claim token sent
+[28Apr2025 03:22:17.236] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connection to tunnel server has been established
+[28Apr2025 03:22:17.237] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: Reflect: ReflectionHelper{ServerConnection=null, LegacyPingHandler=null, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=null, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=null, PacketPrepender=null, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=null, NetworkManager=null, HandshakeListener=null, PacketListener=interface net.minecraft.network.PacketListener}
+[28Apr2025 03:22:17.237] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
+[28Apr2025 03:22:17.237] [nioEventLoopGroup-2-7/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
+[28Apr2025 03:22:17.238] [nioEventLoopGroup-2-8/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[28Apr2025 03:29:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Spectator Mode]
+[28Apr2025 03:30:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Creative Mode]
+[28Apr2025 03:30:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Set own game mode to Survival Mode]
