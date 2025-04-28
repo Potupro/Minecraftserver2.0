@@ -2642,3 +2642,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [28Apr2025 02:54:08.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
 [28Apr2025 02:55:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported Francisco_55 to PetterX]
 [28Apr2025 02:58:26.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ExeedingSky74'/37125, l='ServerLevel[Mundo nuevo]', x=-17177.00, y=-37.43, z=10132.45] died: ExeedingSky74 suffocated in a wall
+[28Apr2025 03:02:34.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17205, y=-20, z=10046} BlockPos{x=-17206, y=-21, z=10046}
+[28Apr2025 03:02:34.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17205, y=-20, z=10046} BlockPos{x=-17205, y=-21, z=10046}
+[28Apr2025 03:03:31.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17181, y=14, z=10073} BlockPos{x=-17181, y=12, z=10073}
+[28Apr2025 03:03:33.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17180, y=13, z=10070} BlockPos{x=-17180, y=12, z=10071}
+[28Apr2025 03:03:33.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17180, y=13, z=10070} BlockPos{x=-17180, y=12, z=10071}
+[28Apr2025 03:03:33.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17181, y=13, z=10069} BlockPos{x=-17181, y=12, z=10070}
+[28Apr2025 03:03:33.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17181, y=13, z=10069} BlockPos{x=-17179, y=12, z=10070}
+[28Apr2025 03:03:35.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Francisco_55 has made the advancement [Pulsating Goober]
+[28Apr2025 03:03:35.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17176, y=13, z=10070} BlockPos{x=-17177, y=12, z=10070}
+[28Apr2025 03:03:35.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17176, y=13, z=10070} BlockPos{x=-17176, y=12, z=10070}
+[28Apr2025 03:03:35.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17176, y=13, z=10069} BlockPos{x=-17176, y=12, z=10070}
+[28Apr2025 03:03:35.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17177, y=13, z=10069} BlockPos{x=-17176, y=12, z=10070}
+[28Apr2025 03:08:59.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ThatGardener'/41041, l='ServerLevel[Mundo nuevo]', x=-17239.70, y=-46.98, z=10075.30] died: ThatGardener was slain by Murmur
