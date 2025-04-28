@@ -351,6 +351,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-27 23:46:25 +0000",
+      "minecraft:witch": "2025-04-28 02:13:31 +0000",
       "minecraft:zombie": "2025-04-27 23:38:19 +0000"
     },
     "done": false
@@ -364,6 +365,12 @@
   "webdisplays:screen": {
     "criteria": {
       "has_screen": "2025-04-27 23:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-28 02:13:56 +0000"
     },
     "done": true
   },

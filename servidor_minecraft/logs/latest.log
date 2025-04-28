@@ -2475,3 +2475,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [28Apr2025 02:02:48.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Francisco_55 (18)
 [28Apr2025 02:02:48.572] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Francisco_55
 [28Apr2025 02:02:48.625] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 88af721f-9d32-310d-b96c-d40ced779e67 was loaded
+[28Apr2025 02:13:56.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Diamonds!]
+[28Apr2025 02:14:32.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['gregTheTyrant'/6609, l='ServerLevel[Mundo nuevo]', x=-17226.72, y=64.00, z=10115.27] died: gregTheTyrant died from internal damage.
+[28Apr2025 02:15:27.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PetterX moved wrongly!

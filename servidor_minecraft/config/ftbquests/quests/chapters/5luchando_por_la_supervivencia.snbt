@@ -97,6 +97,7 @@
 				}
 			}
 			id: "0C733A17E60CA5C0"
+			require_sequential_tasks: true
 			rewards: [
 				{
 					count: 3
