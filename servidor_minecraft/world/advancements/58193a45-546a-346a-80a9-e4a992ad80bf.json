@@ -374,5 +374,17 @@
     },
     "done": true
   },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 02:32:57 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_infected": "2025-04-28 02:32:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -2629,3 +2629,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [28Apr2025 02:28:33.633] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: failed to get ServerConnection from Minecraft Server
 [28Apr2025 02:28:33.633] [nioEventLoopGroup-2-5/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connecting to minecraft server at localhost/[0:0:0:0:0:0:0:1]:25565
 [28Apr2025 02:28:33.633] [nioEventLoopGroup-2-6/INFO] [gg.playit.playitforge.PlayitTcpTunnel/]: connected to local minecraft server
+[28Apr2025 02:31:52.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Francisco_55 moved wrongly!
+[28Apr2025 02:31:56.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['ABucketOfFriedChicken'/363, l='ServerLevel[Mundo nuevo]', x=-17163.99, y=-28.00, z=10056.42] died: ABucketOfFriedChicken was slain by Zombie
+[28Apr2025 02:32:05.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Over-juiced]
+[28Apr2025 02:32:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PetterX has made the advancement [Pillage you say ?]
+[28Apr2025 02:35:50.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[28Apr2025 02:36:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
+[28Apr2025 02:36:55.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PetterX: Teleported PetterX to Francisco_55]
